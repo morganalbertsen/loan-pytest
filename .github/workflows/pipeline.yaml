@@ -91,4 +91,3 @@ jobs:
           app-name: 'albertsen-pipeline'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FB936FCDF1A84567BF3CA78D0291075F }}
-
